@@ -14,9 +14,7 @@ function App() {
  
       </header>
      
-      <p > 
-        
-      </p>
+  
     </div>
   );
 }
